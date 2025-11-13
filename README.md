@@ -148,12 +148,6 @@
 Data Science | Machine Learning | Big Data Analytics | Data Visualization | Cloud Computing | Web Development | Open Source Contribution
 ---
 
-<div align="center">
-  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</div>
-
 # 📊 GitHub Analytics
 <div align="center">
 
@@ -180,3 +174,9 @@ Data Science | Machine Learning | Big Data Analytics | Data Visualization | Clou
 <img src="https://komarev.com/ghpvc/?username=ashvanipatel&color=blue&style=for-the-badge" />
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20 Genral CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
