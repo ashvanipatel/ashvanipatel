@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00A8FF;">Ashvani Patel</span> 🚀</h1>
-<h3 align="center">Data Science Enthusiast | Machine Learning | Web Development | Continuous Learner</h3>
+<h3 align="center">Data Science Enthusiast | Machine Learning | Web Development </h3>
 
 <div align="center">
 <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding">
@@ -147,6 +147,13 @@
 
 Data Science | Machine Learning | Big Data Analytics | Data Visualization | Cloud Computing | Web Development | Open Source Contribution
 ---
+
+<div align="center">
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
+
 # 📊 GitHub Analytics
 <div align="center">
 
