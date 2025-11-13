@@ -146,7 +146,26 @@
 ## 💡 Interests
 
 Data Science | Machine Learning | Big Data Analytics | Data Visualization | Cloud Computing | Web Development | Open Source Contribution
+
+
 ---
+
+# 📄 Download My Resume
+
+<div align="center">
+
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20General%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_SEP_12212963_Final.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Specialization%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
 
 # 📊 GitHub Analytics
 <div align="center">
@@ -174,9 +193,3 @@ Data Science | Machine Learning | Big Data Analytics | Data Visualization | Clou
 <img src="https://komarev.com/ghpvc/?username=ashvanipatel&color=blue&style=for-the-badge" />
 </div>
 
-
-<div align="center">
-  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20 Genral CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</div>
