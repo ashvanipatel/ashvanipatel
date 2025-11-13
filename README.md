@@ -30,20 +30,34 @@
 
 ## ⚒️ Languages, Frameworks & Tools ⚒️
 
-### 🔹 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### 🔹 Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PHP](https://skillicons.dev/icons?i=php)
-
-### 🔹 Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-
 ### 🔹 Programming Languages
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![R](https://skillicons.dev/icons?i=r) ![SQL](https://skillicons.dev/icons?i=sql)
 
-### 🔹 Tools & Other Technologies
-![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma)
+### 🔹 Frameworks & Libraries
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+### 🔹 Data Science & Visualization Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio) ![MySQL](https://skillicons.dev/icons?i=mysql) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter)
+
+### 🔹 Machine Learning & Cloud Technologies
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-667EEA?style=flat) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-764BA2?style=flat) ![Random Forest](https://img.shields.io/badge/Random%20Forest-FF6B6B?style=flat) ![AWS](https://skillicons.dev/icons?i=aws) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark)
+
+### 🔹 Soft Skills & Competencies
+![Quick Learner](https://img.shields.io/badge/Quick%20Learner-51CF66?style=flat) ![Analytical](https://img.shields.io/badge/Strong%20Analytical%20Skills-51CF66?style=flat) ![Leadership](https://img.shields.io/badge/Leadership%20Skills-51CF66?style=flat) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-51CF66?style=flat) ![Communication](https://img.shields.io/badge/Communication-51CF66?style=flat) ![Team Work](https://img.shields.io/badge/Team%20Collaboration-51CF66?style=flat)
+
+---
+
+## 📋 Technology Stack Summary
+
+| Category | Technologies |
+|----------|---------------|
+| **Programming Languages** | Python, Java, C++, C, R, SQL |
+| **Data Processing** | NumPy, Pandas, Apache Spark, PySpark |
+| **Machine Learning** | Scikit-Learn, Random Forest, Supervised/Unsupervised Learning |
+| **Visualization & Analytics** | Power BI, Tableau, R Studio, MySQL, Jupyter Notebook |
+| **Cloud & Big Data** | AWS, Apache Spark, PySpark, ETL Pipelines |
+| **Development Tools** | VS Code, Git, Jupyter, MySQL Workbench |
+| **Soft Skills** | Quick Learner, Analytical Thinking, Leadership, Problem Solving |
 
 ---
 
