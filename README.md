@@ -8,9 +8,9 @@
 
 👨‍🏭 I’m currently pursuing **B.Tech CSE From Lovely Professional University**
 
-🌱 I’m currently learning **DSA & Web Development**
+🌱 I’m currently learning **DSA & Data Science**
 
-🙌 I’m looking to collaborate on **Web Projects**
+🙌 I’m looking to collaborate on ** Data Science , Machine Learning & Power BI / Tableau**
 
 📫 How to reach me? **ashvanip76@gmail.com**
 
