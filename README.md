@@ -88,6 +88,11 @@
 - 🎯 Machine Learning model with 85%+ accuracy using Random Forest
 - 💼 Executive KPI dashboard with trend identification
 - **Tech:** PySpark, Power BI, Python, Random Forest
+<div align="left">
+  <a href="https://github.com/ashvanipatel/Employee-Promotion-Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-2962FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 ---
 
 
@@ -97,7 +102,6 @@
 - 🗺️ Region-wise sales analysis with drill-down capabilities
 - 💡 Trend identification and forecasting
 - **Tech:** Tableau, Data Analysis  
-
 ---
 
 ### 📌 Coding Practice Website
@@ -106,7 +110,11 @@
 - ⚡ Real-time code compilation and execution
 - 🎓 Perfect for coding interviews and learning
 - **Tech:** HTML, CSS, JavaScript 
-
+<div align="left">
+  <a href="https://github.com/ashvanipatel/coding-practice-websites" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-2962FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 ---
 
 ## 🏆 Achievements
