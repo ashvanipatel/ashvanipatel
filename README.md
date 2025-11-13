@@ -75,7 +75,11 @@
 - 🎨 Interactive GUI with real-time visualization
 - 📚 Educational tool for DSA learners
 - **Tech:** Java, Swing, Data Structures & Algorithms 
-
+<div align="left">
+  <a href="https://github.com/ashvanipatel/Binary-Tree-Visualization" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-2962FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 ---
 
 ### 📌 Employee Promotion Prediction Dashboard
