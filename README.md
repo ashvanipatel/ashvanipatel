@@ -101,7 +101,12 @@
 - 📈 Real-time KPI tracking and performance metrics
 - 🗺️ Region-wise sales analysis with drill-down capabilities
 - 💡 Trend identification and forecasting
-- **Tech:** Tableau, Data Analysis  
+- **Tech:** Power BI, Data Analysis 
+<div align="left">
+  <a href="https://github.com/ashvanipatel/Amazon-Sales-Intelligence-Dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-2962FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div> 
 ---
 
 ### 📌 Coding Practice Website
