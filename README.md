@@ -171,11 +171,11 @@ Data Science | Machine Learning | Big Data Analytics | Data Visualization | Clou
 
 <div align="center">
 
-  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_Genral_12212963_Final.pdf" target="_blank">
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/cv_gen_12212963.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20General%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/CV_SEP_12212963_Final.pdf" target="_blank">
+  <a href="https://github.com/ashvanipatel/Portfolio/blob/main/cv_sep_12212963.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Specialization%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 
