@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark" />
 </p>
 
-<h2 align="center">📈 Data Visualization</h2>
+## 📈 Data Visualization
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau" />
@@ -64,14 +64,14 @@
   <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter" />
 </p>
 
-<h2 align="center">🌐 Web Technologies</h2>
+## 🌐 Web Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
-<h2 align="center">☁️ Cloud & Tools</h2>
+## ☁️ Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=git" />
