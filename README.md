@@ -38,12 +38,14 @@
 # ⚒️ Tech Stack
 
 ## 🖥️ Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![R](https://skillicons.dev/icons?i=r)
-![SQL](https://skillicons.dev/icons?i=mysql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ## 📊 Data & Machine Learning
 <p align="center">
@@ -54,21 +56,27 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark" />
 </p>
 
-## 📈 Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter)
+<h2 align="center">📈 Data Visualization</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter" />
+</p>
 
-## 🌐 Web Technologies
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+<h2 align="center">🌐 Web Technologies</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
 
-## ☁️ Cloud & Tools
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<h2 align="center">☁️ Cloud & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
