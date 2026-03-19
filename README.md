@@ -38,13 +38,14 @@
 # ⚒️ Tech Stack
 
 ## 🖥️ Programming Languages
+<p align="center">
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
 ![R](https://skillicons.dev/icons?i=r)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-
+</p>
 ## 📊 Data & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
