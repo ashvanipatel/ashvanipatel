@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#00A8FF;">Ashvani Patel</span> 🚀</h1>
+<h1 align="center">
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">   Hey there! I'm Ashvani Patel  🌈<br>
+</h1>
+
 <h3 align="center">Data Science Enthusiast | Machine Learning | Web Development </h3>
 
 <div align="center">
