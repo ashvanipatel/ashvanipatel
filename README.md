@@ -38,20 +38,21 @@
 # ⚒️ Tech Stack
 
 ## 🖥️ Programming Languages
-<p align="center">
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
 ![R](https://skillicons.dev/icons?i=r)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-</p>
+
 ## 📊 Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark)
-![Spark](https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark)
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark" />
+</p>
 
 ## 📈 Data Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi)
