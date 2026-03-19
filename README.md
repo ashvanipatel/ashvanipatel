@@ -36,48 +36,38 @@
 ---
 
 # ⚒️ Tech Stack
-
 ## 🖥️ Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=r" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![R](https://skillicons.dev/icons?i=r)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ## 📊 Data & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark" />
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F26B00?style=flat&logo=apachespark)
 
 ## 📈 Data Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio" />
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter" />
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter)
 
 ## 🌐 Web Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ## ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
+---
 ---
 
 # 🚀 Featured Projects
