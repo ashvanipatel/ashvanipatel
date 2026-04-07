@@ -86,6 +86,9 @@
 ---
 
 ### 📌 Employee Promotion Prediction Dashboard
+## 🌐 Live Demo  
+[Click here to view the project](https://app.powerbi.com/view?r=eyJrIjoiNTIyMTFjZWQtN2U5NS00YzYyLWI3Y2MtNzQ4ZWRhNjFiNTVmIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
 **Predictive HR analytics with interactive Power BI dashboard**
 - 📊 Analyzed 40,000+ employee records for promotion patterns
 - 🎯 Machine Learning model with 85%+ accuracy using Random Forest
@@ -100,6 +103,9 @@
 
 
 ### 📌 Amazon Sales Dashboard
+## 🌐 Live Demo  
+[Click here to view the project](https://app.powerbi.com/view?r=eyJrIjoiNWRmYzMwOGYtNzJhZi00YTljLWE1Y2ItMTUwZDFiZWUzYjE4IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
 **End-to-end interactive analytics dashboard for sales insights**
 - 📈 Real-time KPI tracking and performance metrics
 - 🗺️ Region-wise sales analysis with drill-down capabilities
